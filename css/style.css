@@ -1,0 +1,36 @@
+body {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .bg-orange {
+    background-color: #ff8c00;
+  }
+  
+  .jumbotron {
+    background-color: #fff;
+    border: 2px solid #000;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #ff8c00;
+    color: #fff;
+  }
+  
+  /* Add new styles for logo size and centering */
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 15vh; /* Adjust to your design requirements */
+  }
+  
+  header img {
+    width: 150px; /* Set your desired width */
+    height: auto; /* Maintain aspect ratio */
+    
+  }
+  
